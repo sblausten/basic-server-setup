@@ -15,3 +15,8 @@ npm install
 npm run start
 ```
 
+## Tech used
+
+- Node Express server
+- Mocha with Chai for testing
+
