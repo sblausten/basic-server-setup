@@ -1,0 +1,28 @@
+{
+  "name": "basic-server-setup",
+  "version": "1.0.0",
+  "description": "Simple node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive -c",
+    "start": "node app/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sblausten/basic-server-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sblausten/basic-server-setup/issues"
+  },
+  "homepage": "https://github.com/sblausten/basic-server-setup#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "chai-http": "^3.0.0",
+    "mocha": "^3.4.2"
+  }
+}
