@@ -1,5 +1,5 @@
 # basic-server-setup
-Practice creating a basic node server
+Practice creating a basic node server with express.
 
 ## To run tests:
 
